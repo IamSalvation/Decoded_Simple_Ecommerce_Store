@@ -1,4 +1,4 @@
-# CodeAlpha_Simple_Ecommerce_Store# Simple E-Commerce Store (ShopHorizon)
+# Decoded_Simple_Ecommerce_Store# Simple E-Commerce Store (ShopHorizon)
 
 A minimalist frontend storefront integrated with a lightweight Node.js/Express backend server, built as part of the CodeAlpha Web Development Internship requirements.
 
